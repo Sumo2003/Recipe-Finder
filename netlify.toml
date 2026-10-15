@@ -1,0 +1,5 @@
+# Static site: index.html lives at the repository root and needs no build step.
+[build]
+  base = "/"
+  publish = "/"
+  command = ""
